@@ -177,6 +177,10 @@ disableHugoGeneratorInject = false
     name = "github"
     url  = "https://github.com/CryoByte33"
 
+  [[params.social]]
+    name = "twitch"
+    url  = "https://twitch.tv/CryoByte33"
+
 
 
 [menu]
