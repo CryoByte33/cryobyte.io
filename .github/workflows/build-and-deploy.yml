@@ -28,7 +28,7 @@ jobs:
 
       - name: Deploy
         uses: SamKirkland/FTP-Deploy-Action@4.3.3
-        env:
+        with:
           server: ${{ secrets.SSH_HOST }}
           username: ${{ secrets.SSH_USER }}
           password: ${{ secrets.SSH_PASSWORD }}
