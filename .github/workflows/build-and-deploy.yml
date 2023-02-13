@@ -31,4 +31,4 @@ jobs:
           known_hosts: unnecessary
 
       - name: Deploy with rsync
-        run: rsync -avz -vve.LsfxCIvu public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/public_html/
+        run: rsync -avz --rsh='ssh -p${{ secrets.SSH_PORT }}' -vve.LsfxCIvu public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/public_html/
