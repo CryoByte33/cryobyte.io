@@ -32,8 +32,8 @@ jobs:
           server: ${{ secrets.SSH_HOST }}
           username: ${{ secrets.SSH_USER }}
           password: ${{ secrets.SSH_PASSWORD }}
-          local-dir: public
-          server-dir: public_html
+          local-dir: ./public/
+          server-dir: public_html/
           dangerous-clean-slate: true
           protocol: ftps
           port: ${{ secrets.FTPS_PORT }}
