@@ -31,4 +31,4 @@ jobs:
           known_hosts: unnecessary
 
       - name: Deploy with rsync
-        run: rsync -avz -e "ssh -vvv -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }}" ./public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/public_html/
+        run: rsync -avz -e "ssh -vvv -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }}" public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/public_html/
