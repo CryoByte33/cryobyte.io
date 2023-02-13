@@ -19,16 +19,21 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
-          # extended: true
 
       - name: Build
         run: hugo --minify
 
-      - name: Install SSH Key
-        uses: shimataro/ssh-key-action@v2
-        with:
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          known_hosts: unnecessary
+      - name: List Output Files
+        run: ls ./public/
 
-      - name: Deploy with rsync
-        run: rsync -avz -vve.LsfxCIvu -e "ssh -vvv -o StrictHostKeyChecking=no -p ${{ secrets.SSH_PORT }}" ./public/* ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/
+      - name: Deploy
+        uses: SamKirkland/FTP-Deploy-Action@4.3.3
+        env:
+          server: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          password: ${{ secrets.SSH_PASSWORD }}
+          local-dir: public
+          server-dir: public_html
+          dangerous-clean-slate: true
+          protocol: ftps
+          port: ${{ secrets.FTPS_PORT }}
