@@ -24,6 +24,9 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: List files
+        run: ls -lashR
+
       - name: Install SSH Key
         uses: shimataro/ssh-key-action@v2
         with:
