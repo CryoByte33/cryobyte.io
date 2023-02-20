@@ -18,6 +18,8 @@ Today is a big day, I've uploaded a MASSIVE update to CryoUtilities with a ton o
 
 Huge shout-out to my wife Crystal for the art, and for putting up with me working all day, every day, for almost 2 months to pull this one off.
 
+Lastly, an extra huge shout-out to my patrons for allowing me to spend so much time doing this, and for beta testing!
+
 I hope you guys enjoy the video and the new update!
 
 ### Links and More
