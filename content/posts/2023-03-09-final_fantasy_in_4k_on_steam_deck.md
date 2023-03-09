@@ -32,6 +32,8 @@ HD Full Motion Video: https://www.nexusmods.com/finalfantasy13/mods/18
 
 Better Cutscene Audio: https://www.nexusmods.com/finalfantasy13/mods/34
 
+Read the article on SDHQ!: https://steamdeckhq.com/news/cryobyte33-final-fantasy-13-deck-dive/
+
 Support me on Patreon and see all my videos ad-free, and usually early: https://www.patreon.com/cryobyte33
 
 Join the Discord: https://discord.gg/ySe8WGVNPv
