@@ -10,7 +10,7 @@ tags:
   - cryoutilities
 ---
 
-{{< youtube C9EjXYZUqUs   >}}
+{{< youtube C9EjXYZUqUs >}}
 
 Hey everyone!
 

@@ -5,8 +5,8 @@ draft: false
 toc: false
 images:
 tags:
-- video
-- deck dive
+  - video
+  - deck dive
 ---
 
 {{< youtube 9Z2b2-o5qTA >}}
