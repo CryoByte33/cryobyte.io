@@ -9,8 +9,6 @@ tags:
   - cryoutilities
 ---
 
-# CryoUtilities Offline Installation
-
 This quick guide is intended to allow firewalled countries to install CU2.
 
 **NOTE:** This method won't let you update or uninstall normally since you'll need an internet connection for those. However, it WILL allow you to use CU2 as normal.
