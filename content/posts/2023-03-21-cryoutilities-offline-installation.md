@@ -13,7 +13,7 @@ This quick guide is intended to allow firewalled countries to install CU2.
 
 **NOTE:** This method won't let you update or uninstall normally since you'll need an internet connection for those. However, it WILL allow you to use CU2 as normal.
 
-1. Download ![this file with the necessary code](/CU-Offline-Install.zip) to your Steam Deck/Device.
+1. Download [this file with the necessary code](/files/CU-Offline-Install.zip) to your Steam Deck/Device.
 2. Open Konsole and use the following commands, pressing the Enter/Return key after each:
 
 ```bash
