@@ -17,7 +17,7 @@ This quick guide is intended to allow firewalled countries to install CU2.
 2. Open Konsole and use the following commands, pressing the Enter/Return key after each:
 
 ```bash
-cd
+cd $HOME
 mkdir .cryo_utilities
 cd .cryo_utilities
 ```
@@ -37,8 +37,8 @@ Exec=bash $HOME/.cryo_utilities/launcher.sh
 Icon=cryo-utilities
 Terminal=false
 Type=Application
-StartupNotify=false" >"$HOME"/Desktop/CryoUtilities.desktop
-chmod +x "$HOME"/Desktop/CryoUtilities.desktop
+StartupNotify=false" > $HOME/Desktop/CryoUtilities.desktop
+chmod +x $HOME/Desktop/CryoUtilities.desktop
 echo "#!/usr/bin/env xdg-open
 [Desktop Entry]
 Name=CryoUtilities
@@ -47,8 +47,8 @@ Icon=cryo-utilities
 Terminal=false
 Type=Application
 Categories=Utility
-StartupNotify=false" >"$HOME"/.local/share/applications/CryoUtilities.desktop
-chmod +x "$HOME"/.local/share/applications/CryoUtilities.desktop
+StartupNotify=false" > $HOME/.local/share/applications/CryoUtilities.desktop
+chmod +x $HOME/.local/share/applications/CryoUtilities.desktop
 update-desktop-database ~/.local/share/applications
 ```
 Now, you should be all set to use CryoUtilities as normal!
