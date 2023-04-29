@@ -9,7 +9,7 @@ tags:
   - deck dive
 ---
 
-[This video has a companion article at SDHQ here.](https://steamdeckhq.com/news/hogwarts-legacys-performance-deck-dive/)
+### [This video has a companion article at SDHQ here.](https://steamdeckhq.com/news/hogwarts-legacys-performance-deck-dive/)
 
 {{< youtube d9r99Iygy6Y >}}
 
