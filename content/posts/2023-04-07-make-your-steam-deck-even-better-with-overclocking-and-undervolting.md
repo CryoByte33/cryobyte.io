@@ -9,7 +9,7 @@ tags:
   - tutorial
 ---
 
-[This video has a companion article at SDHQ here.](https://steamdeckhq.com/news/undervolting-and-overclocking-push-your-steam-deck-beyond-its-limits/)
+### [This video has a companion article at SDHQ here.](https://steamdeckhq.com/news/undervolting-and-overclocking-push-your-steam-deck-beyond-its-limits/)
 
 {{< youtube LNEI7BTc87Q  >}}
 

@@ -9,7 +9,7 @@ tags:
   - deck dive
 ---
 
-[This video has a companion article at SDHQ here.](https://steamdeckhq.com/news/cryobyte33-final-fantasy-13-deck-dive/)
+### [This video has a companion article at SDHQ here.](https://steamdeckhq.com/news/cryobyte33-final-fantasy-13-deck-dive/)
 
 {{< youtube DakhjLL2Ed0 >}}
 
