@@ -9,6 +9,8 @@ tags:
   - tutorial
 ---
 
+[This video has a companion article at SDHQ here.](https://steamdeckhq.com/news/undervolting-and-overclocking-push-your-steam-deck-beyond-its-limits/)
+
 {{< youtube LNEI7BTc87Q  >}}
 
 It's time for one of my most anticipated videos, undervolting and overclocking. Buckle up, get ready to learn, and tune your Deck how you want it!
@@ -19,8 +21,6 @@ CryoUtilities 2: https://youtu.be/C9EjXYZUqUs
 Smokeless_UMAF: https://github.com/DavidS95/Smokeless_UMAF
 
 Decky Loader: https://github.com/SteamDeckHomebrew/decky-loader
-
-SDHQ Article: https://steamdeckhq.com/news/undervolting-and-overclocking-push-your-steam-deck-beyond-its-limits/
 
 Support me on Patreon and see all my videos ad-free, and usually early: https://www.patreon.com/cryobyte33
 

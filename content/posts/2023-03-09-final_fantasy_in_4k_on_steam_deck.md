@@ -9,6 +9,8 @@ tags:
   - deck dive
 ---
 
+[This video has a companion article at SDHQ here.](https://steamdeckhq.com/news/cryobyte33-final-fantasy-13-deck-dive/)
+
 {{< youtube DakhjLL2Ed0 >}}
 
 Today we're pushing Final Fantasy 13 as hard as we can and making some massive strides along the way. Watch as we 
@@ -31,8 +33,6 @@ HD Project: https://www.nexusmods.com/finalfantasy13/mods/17
 HD Full Motion Video: https://www.nexusmods.com/finalfantasy13/mods/18
 
 Better Cutscene Audio: https://www.nexusmods.com/finalfantasy13/mods/34
-
-Read the article on SDHQ!: https://steamdeckhq.com/news/cryobyte33-final-fantasy-13-deck-dive/
 
 Support me on Patreon and see all my videos ad-free, and usually early: https://www.patreon.com/cryobyte33
 
