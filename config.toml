@@ -166,6 +166,10 @@ disableHugoGeneratorInject = false
     url  = "https://patreon.com/cryobyte33"
 
   [[params.social]]
+    name = "kofi"
+    url  = "https://ko-fi.com/cryobyte33"
+
+  [[params.social]]
     name = "mastodon"
     url  = "https://mastodon.cryobyte.net/@cryobyte33"
 
