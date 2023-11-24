@@ -6,4 +6,4 @@ aliases = ["contact"]
 
 Email me at: [cryobyte33@cryobyte.io](mailto:cryobyte33@cryobyte.io)
 
-Discord: CryoByte33#0345
+Discord: cryobyte33
