@@ -1,7 +1,5 @@
 # cryobyte.io
-Website for my [YouTube channel](https://youtube.com/@cryobyte33), hosted at [cryobyte.io](https://cryobyte.io).
-
-Built with Hugo!
+Website for my [YouTube channel](https://youtube.com/@cryobyte33), hosted at [cryobyte.io](https://cryobyte.io), built with Hugo!
 
 ## Contribution
 I don't expect any contribution here, but if you see a typo or something, I'll be happy to take a look at it 🙂
